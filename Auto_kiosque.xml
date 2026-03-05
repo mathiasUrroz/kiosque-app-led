@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='hclhjahflpappmmahipmnihhbpddmlhk'>
-    <updatecheck codebase='https://drive.google.com/uc?export=download&amp;id=1wq-FsII1rh2x41ama7ZiZZijHp_MawQl' version='1.0' />
+    <updatecheck codebase='https://mathiasurroz.github.io/kiosque-app-led/Auto-Kiosque.crx' version='1.0' />
   </app>
 </gupdate>
